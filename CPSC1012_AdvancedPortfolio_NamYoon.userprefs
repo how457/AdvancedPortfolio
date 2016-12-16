@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{B14D8FFA-86B6-4A16-889A-1CE31B2505D3}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
+    <Files>
+      <File FileName="StartExam.cs" Line="17" Column="59" />
+      <File FileName=":Users:NamwookYoon:Desktop:AdvancedPortfolio:Build.cs" Line="7" Column="15" />
+      <File FileName="QuestionImportExport.cs" Line="30" Column="37" />
+      <File FileName="Program.cs" Line="12" Column="36" />
+      <File FileName="MultipleChoiceQuestion.cs" Line="9" Column="33" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.CPSC1012__AdvancedPortfolio__NamYoon PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

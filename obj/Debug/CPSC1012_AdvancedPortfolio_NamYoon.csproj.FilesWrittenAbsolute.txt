@@ -1,0 +1,3 @@
+/Users/NamwookYoon/Desktop/AdvancedPortfolio/obj/Debug/.NETFramework,Version=v4.5.2.AssemblyAttribute.cs
+/Users/NamwookYoon/Desktop/AdvancedPortfolio/obj/Debug/CPSC1012_AdvancedPortfolio_NamYoon.exe
+/Users/NamwookYoon/Desktop/AdvancedPortfolio/obj/Debug/CPSC1012_AdvancedPortfolio_NamYoon.pdb
