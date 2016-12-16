@@ -3,6 +3,8 @@ namespace CPSC1012_AdvancedPortfolio_NamYoon
 {
 	public class App
 	{
+		MultipleChoiceQuestion[] questionArray = new MultipleChoiceQuestion[30];
+
 		public App() { }
 
 		public void start()
@@ -15,10 +17,23 @@ namespace CPSC1012_AdvancedPortfolio_NamYoon
 				switch (menuChoice)
 				{
 					case 1:
+						CreateQuestion();
 						break;
 					case 2:
 						break;
-					// 345...
+					case 3:
+						break;
+					case 4:
+						break;
+					case 5:
+						break;
+					case 6:
+						break;
+					case 7:
+						break;
+					case 8:
+						break;
+
 					default:
 						break;
 				}
@@ -46,9 +61,35 @@ namespace CPSC1012_AdvancedPortfolio_NamYoon
 			return userInputInt;
 		}
 
-		public static int GetNextArrayIndex(ref MultipleChoiceQuestion[] questionArray)
+		public void CreateQuestion()
 		{
-			throw new NotImplementedException();
+			InputOutput.DisplayTitle("Multiple Choice Exam - New Question");
+			Console.WriteLine("\nThere are currently {0} questions in the exam.", countArrayQuestion(ref questionArray));
+
+			Console.WriteLine("\nEnter the question");
+
+
+		}
+
+		public int MarkExam() 
+		{
+			
+		}
+
+		public static int countArrayQuestion(ref MultipleChoiceQuestion[] questionArray)
+		{
+			for (int i = 0; i < questionArray.Length; i++)
+			{
+				if (questionArray[i] == null)
+				{
+					return i;
+				}
+				if (i == questionArray.Length - 1)
+				{
+					return i + 1;
+				}
+			}
+			return -1;
 		}
 	}
 }
