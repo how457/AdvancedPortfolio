@@ -1,0 +1,5 @@
+/Users/NamwookYoon/Desktop/AdvancedPortfolio/AdvancedPortfolioMac/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/NamwookYoon/Desktop/AdvancedPortfolio/AdvancedPortfolioMac/bin/Debug/AdvancedPortfolioMac.exe.mdb
+/Users/NamwookYoon/Desktop/AdvancedPortfolio/AdvancedPortfolioMac/bin/Debug/AdvancedPortfolioMac.exe
+/Users/NamwookYoon/Desktop/AdvancedPortfolio/AdvancedPortfolioMac/obj/x86/Debug/AdvancedPortfolioMac.exe
+/Users/NamwookYoon/Desktop/AdvancedPortfolio/AdvancedPortfolioMac/obj/x86/Debug/AdvancedPortfolioMac.exe.mdb
