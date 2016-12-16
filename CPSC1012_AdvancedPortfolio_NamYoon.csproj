@@ -50,6 +50,7 @@
     <Compile Include="QuestionImportExport.cs" />
     <Compile Include="StartExam.cs" />
     <Compile Include="Program.cs" />
+    <Compile Include="App.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

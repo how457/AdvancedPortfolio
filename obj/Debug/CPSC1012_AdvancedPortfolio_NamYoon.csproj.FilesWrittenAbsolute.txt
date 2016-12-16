@@ -1,3 +1,8 @@
 /Users/NamwookYoon/Desktop/AdvancedPortfolio/obj/Debug/.NETFramework,Version=v4.5.2.AssemblyAttribute.cs
 /Users/NamwookYoon/Desktop/AdvancedPortfolio/obj/Debug/CPSC1012_AdvancedPortfolio_NamYoon.exe
 /Users/NamwookYoon/Desktop/AdvancedPortfolio/obj/Debug/CPSC1012_AdvancedPortfolio_NamYoon.pdb
+/Users/NamwookYoon/Desktop/AdvancedPortfolio/bin/Debug/CPSC1012_AdvancedPortfolio_NamYoon.exe.config
+/Users/NamwookYoon/Desktop/AdvancedPortfolio/bin/Debug/CPSC1012_AdvancedPortfolio_NamYoon.exe.mdb
+/Users/NamwookYoon/Desktop/AdvancedPortfolio/bin/Debug/CPSC1012_AdvancedPortfolio_NamYoon.pdb
+/Users/NamwookYoon/Desktop/AdvancedPortfolio/bin/Debug/CPSC1012_AdvancedPortfolio_NamYoon.exe
+/Users/NamwookYoon/Desktop/AdvancedPortfolio/obj/Debug/CPSC1012_AdvancedPortfolio_NamYoon.exe.mdb

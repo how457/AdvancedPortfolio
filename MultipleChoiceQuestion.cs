@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace CPSC1012_AdvancedPortfolio_NamYoon
 {
-    class MultipleChoiceQuestion
+    public class MultipleChoiceQuestion
     {
         #region Declare
         private string _Question;

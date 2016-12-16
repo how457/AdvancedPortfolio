@@ -4,12 +4,11 @@ namespace CPSC1012_AdvancedPortfolio_NamYoon
 {
 	public class Program
 	{
-
-		public static int GetNextArrayIndex(ref MultipleChoiceQuestion[] questionArray)
+		[STAThread]
+		public static void Main()
 		{
-			if (1 == 2)
-				return -1;
-			throw new NotImplementedException();
+			App myApp = new App();
+			myApp.start();
 		}
 	}
 }

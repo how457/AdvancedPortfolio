@@ -59,7 +59,7 @@ namespace CPSC1012_AdvancedPortfolio_NamYoon
 
                         );
 
-                    index = Program.GetNextArrayIndex(ref questionArray);
+                    index = App.GetNextArrayIndex(ref questionArray);
 
                     //If array is not full, add the new student
                     if (index != -1)
